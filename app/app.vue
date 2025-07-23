@@ -4,7 +4,7 @@
 
     <MobileSidebar :isOpen="isSidebarOpen" @close="isSidebarOpen = false" />
 
-    <div :class="['transition-all p-6 min-h-screen bg-gray-100', 'lg:ml-72']">
+    <div :class="['transition-all p-6 min-h-screen bg-bgLayout', 'lg:ml-72']">
       <Topbar @toggle-sidebar="isSidebarOpen = true" />
       <h1 class="text-[40px] font-semibold mb-4 font-poppins">
         {{ overview?.name }}

@@ -38,7 +38,7 @@
     <div class="space-y-2 lg:p-10 p-2">
       <h2 class="text-[20px] font-poppins font-semibold mb-8">Description</h2>
       <div
-        class="bg-gray-100 text-[15px] font-medium text-midgray p-8 rounded-xl"
+        class="bg-bgGray text-[15px] font-medium text-midgray p-8 rounded-xl"
       >
         {{ description }}
       </div>

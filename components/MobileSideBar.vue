@@ -1,5 +1,5 @@
 <template>
-  <transition name="fade">
+  <Transition name="fade">
     <div
       v-if="isOpen"
       class="fixed inset-0 z-50 bg-black bg-opacity-40"
@@ -88,7 +88,7 @@
         </div>
       </aside>
     </div>
-  </transition>
+  </Transition>
 </template>
 
 <script setup lang="ts">

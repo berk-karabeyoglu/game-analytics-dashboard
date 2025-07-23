@@ -4,7 +4,7 @@
   >
     Stream Performance
   </h2>
-  <div class="bg-gray-100 rounded-2xl shadow p-6 h-[450px]">
+  <div class="bg-bgGray rounded-2xl shadow p-6 h-[450px]">
     <div class="h-full py-10">
       <Bar :data="barData" :options="barOptions" />
     </div>

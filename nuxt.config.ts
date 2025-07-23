@@ -5,6 +5,7 @@ export default defineNuxtConfig({
   modules: ["@nuxtjs/tailwindcss"],
   app: {
     head: {
+      title: "Game Analytics Dashboard",
       link: [
         {
           rel: "stylesheet",

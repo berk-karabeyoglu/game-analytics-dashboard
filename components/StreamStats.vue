@@ -6,7 +6,7 @@
   </h2>
   <div class="grid grid-cols-2 gap-4">
     <!-- Hours Watched -->
-    <div class="bg-gray-100 rounded-2xl p-4">
+    <div class="bg-bgGray rounded-2xl p-4">
       <p
         class="lg:text-[16px] text-xs text-black font-semibold mb-1 font-poppins"
       >
@@ -39,7 +39,7 @@
     </div>
 
     <!-- Average Viewers -->
-    <div class="bg-gray-100 rounded-2xl p-4">
+    <div class="bg-bgGray rounded-2xl p-4">
       <p
         class="lg:text-[16px] text-xs text-black font-semibold mb-1 font-poppins"
       >
